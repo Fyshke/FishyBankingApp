@@ -1,5 +1,9 @@
-Simple banking app with a Login & Register, Deposit, Withdraw, Transfer & Past Transactions function.
-Made with IntelliJ & MySQL.
+Simple banking app with:
+- Login & Register - Register your user and access the banking app through the login page
+- Deposit - Deposit money to your account
+- Withdraw - Withdraw money from your account
+- Transfer - Transfer money to another registered user
+- Past Transactions - Shows all transactions made since the making of your account
 
 ![image](https://github.com/Fyshke/FishyBankingApp/assets/147095784/a7e49d4a-8e39-4f3d-9a4c-4d1c607e5ff3)
 ![image](https://github.com/Fyshke/FishyBankingApp/assets/147095784/e7312dd8-613a-4357-82f0-6ffb2d085682)
